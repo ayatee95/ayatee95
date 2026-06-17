@@ -1,4 +1,5 @@
 # Hi, I'm Aaya Mohammed 👋
+*"Coding with creativity, powered by AI & passion"*  
 
 🎓 IT Student (Bachelor of Honor) at Nile Valley University  
 💻 Skilled in: Java, HTML, CSS, JavaScript, PHP  
@@ -38,6 +39,14 @@
 
 ## 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ayatee95&theme=onedark)
+
+---
+
+## 💡 Interests
+- 🎶 K-Pop & Korean Entertainment  
+- 🔐 Cybersecurity & Linux exploration  
+- 🍲 Sudanese & World Cuisines  
+- 📚 Continuous learning in AI & Tech  
 
 ---
 
