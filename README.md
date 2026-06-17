@@ -53,6 +53,6 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: your-email@example.com  
+- 📧 Email: 9595ayoo@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/aaya-mohammed](#)  
 - 🐦 Twitter: [twitter.com/yourhandle](#)
